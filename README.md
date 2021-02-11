@@ -1,2 +1,2 @@
-# splash-page
-simple web page from design to implementation.
+# Splash Page
+Simple web page from design to implementation.
